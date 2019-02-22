@@ -11,7 +11,7 @@ export default new Router({
     {
       path: '/',
       name: 'home',
-      component: Home
+      component: Presentation1
     },
     {
       path: '/presentations/hacking-hack-and-slash-on-terminal-in-aktsk',
